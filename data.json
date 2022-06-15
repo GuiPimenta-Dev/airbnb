@@ -1,0 +1,18 @@
+{
+    "alphaville": {
+        "grade_avg": 4.72,
+        "min_grade": 3.67,
+        "max_grades": 5.0,
+        "prices_avg": 244.43,
+        "min_price": 60.0,
+        "max_price": 896.0
+    },
+    "capital": {
+        "grade_avg": 4.81,
+        "min_grade": 3.8,
+        "max_grades": 5.0,
+        "prices_avg": 134.56,
+        "min_price": 49.0,
+        "max_price": 249.0
+    }
+}

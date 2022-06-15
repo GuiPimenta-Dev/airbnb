@@ -1,0 +1,19 @@
+{
+    "boolRender": true,
+    "alphaville": {
+        "grade_avg": 4.71,
+        "min_grade": 3.67,
+        "max_grades": 5.0,
+        "prices_avg": 245.6,
+        "min_price": 63.0,
+        "max_price": 896.0
+    },
+    "capital": {
+        "grade_avg": 4.83,
+        "min_grade": 4.1,
+        "max_grades": 5.0,
+        "prices_avg": 146.98,
+        "min_price": 55.0,
+        "max_price": 403.0
+    }
+}
